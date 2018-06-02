@@ -1,0 +1,9 @@
+1. Multitouch lead attribution with company data I structured for a seperate project last year. Find how often we are bringing in a customer through multiple paid channels at once, vs. value-add reengagement activity. What are the time frames for each? Does too much marketing squeeze hurt lead performance?
+
+2. Use two kaggle datasets to evaluate the relationships between criminal gun violence and fatal police shootings. Possibly find additional dataset on gun laws and perform additional predictions based on proximity to easy gun access
+https://www.kaggle.com/jameslko/gun-violence-data/data
+https://www.kaggle.com/kwullum/fatal-police-shootings-in-the-us/data
+alternative gun violence data sets available at catalog.data.gov/
+
+4. Bikesharing fleet forecasting. Answer questions on necessary fleet size, maintenance cycles, how unseasonal weather patterns impacts demand.
+http://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset
